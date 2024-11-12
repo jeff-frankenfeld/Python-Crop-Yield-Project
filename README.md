@@ -17,6 +17,8 @@ Description of folder contents are as follows:
 ## Code Overview
 Code was written in Python using the Jupyter Notebook platform
 Tableau was used for visual creation and presentation
+## Data source
+https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield
 ## Disclaimer
 This dataset is a combination of real and synthetic data. While synthetic data is used to enhance the dataset and fill in gaps, it is important to recognize that its inclusion may introduce several biases. Some of these biases could include
 - Misrepresentation Bias: Synthetic data may not accurately reflect the true variability and characteristics of the real-world data, potentially distorting the overall distribution and relationships in the dataset.
