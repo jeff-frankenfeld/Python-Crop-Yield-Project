@@ -7,6 +7,9 @@ As a crop yield analyst for an agriculture company, this project involves analyz
 3. Are yields significantly higher for crops that are irrigated vs non-irrigated crops?
 4. Is there a certain region that produces more crop than others?
 5. Does weather condition have an effect on crop yield?
+## Hypothesis
+- Null Hypothesis: There is no significant relationship between the amount of rainfall a crop receives and its yield. In other words, increased rainfall does not result in a higher crop yield.
+- Alternative Hypothesis: There is a significant positive relationship between the amount of rainfall a crop receives and its yield. In other words, increased rainfall is associated with higher crop yields.
 ## Folders
 Description of folder contents are as follows:
 - 03 Scripts: Contains python scripts created for the project using Jupyter Notebooks
